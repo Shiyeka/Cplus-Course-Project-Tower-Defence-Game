@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>picture/bullet.png</file>
+        <file>picture/enemy1.png</file>
+        <file>picture/enemy2.png</file>
+        <file>picture/tower.png</file>
+        <file>picture/background.jpg</file>
+        <file>picture/player.png</file>
+        <file>picture/poisonbottle.png</file>
+        <file>picture/poisonbottle2.png</file>
+        <file>picture/freezeL.png</file>
+        <file>picture/freezeM.png</file>
+        <file>picture/freezeS.png</file>
+        <file>picture/jewel_money.png</file>
+        <file>picture/magicL.png</file>
+        <file>picture/magicM.png</file>
+        <file>picture/magicS.png</file>
+        <file>picture/towerL.png</file>
+        <file>picture/towerM.png</file>
+        <file>picture/towerS.png</file>
+        <file>picture/map1.jpg</file>
+        <file>picture/map2.jpg</file>
+        <file>picture/introduction.jpg</file>
+        <file>picture/start_background.jpg</file>
+        <file>picture/towerposition.png</file>
+    </qresource>
+</RCC>
